@@ -8,4 +8,4 @@ It consists of two parts:
 
 You will find notebooks with the development of each challenge, as well as two additional notebooks with the functions used in each case.
 
-The proposal is also attached as a `.txt` file.
+The proposal is also attached as a `.ipynb` file.
